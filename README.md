@@ -6,7 +6,7 @@
 
 麻烦走过路过的的各位朋友们给这个项目点个 star，真的写了好久，大家的 Star 就是对我坚持下来最大的一种鼓励！我会一直持续更新这个项目的。
 
-![](https://files.mdnice.com/user/19005/df4b3a2f-6829-4d07-a557-5abd8145331a.pn)
+![](https://files.mdnice.com/user/19005/df4b3a2f-6829-4d07-a557-5abd8145331a.png)
 
 
 ## 大数据系列博文
