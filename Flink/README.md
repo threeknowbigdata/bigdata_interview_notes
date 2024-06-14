@@ -4,10 +4,12 @@
 
 为了帮助更多从事大数据行业的小伙伴，能快速学会各种大数据组件，并且找到一份满意的大数据工作，在这里我将自己这些年工作所整理的大数据组件文章、大数据面经整理出来发送给大家！
 
+[Flink系列文章及面经](https://github.com/threeknowbigdata/flink_second_understand)
+
+
 麻烦走过路过的的各位朋友们给这个项目点个 star，真的写了好久，大家的 Star 就是对我坚持下来最大的一种鼓励！我会一直持续更新这个项目的。
 
-![](https://files.mdnice.com/user/19005/a4fa823a-6ac5-47e8-a01d-24f4ccf9c994.png)
-
+![](https://files.mdnice.com/user/19005/df4b3a2f-6829-4d07-a557-5abd8145331a.png)
 
 ## 大数据系列博文
 
